@@ -1,0 +1,59 @@
+body {
+    color: Black;
+    font-family: Arial, sans-serif;
+    background-color: White;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #208020;
+}
+
+li {
+    margin: 10px;
+}
+
+#HEADER {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#CONTENT {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    margin-top: 35px;
+    width: 800px;
+    margin-left: 50px;
+    margin-bottom: 35px;
+}
+
+.paper-title {
+    padding: 3px 3px 0px 3px;
+    color: #903;
+    font-weight: bold;
+}
+
+.paper-authors {
+    padding: 3px 3px 0px 3px;
+    color: #303030;
+}
+
+.paper-conference {
+    padding: 3px 3px 0px 3px;
+    color: #303030;
+}
+
+.paper-res {
+    padding: 3px 3px 0px 3px;
+}
+
+.img-rounded {
+    border-radius: 4px;
+}
