@@ -2,11 +2,11 @@
 layout: page
 permalink: /experience/
 title: experience
-description: Materials for courses you taught. Replace this text with your description.
 nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Jun - Sep 2020, Visiting student at Princeton NLP Group
+- Jun - Aug 2018, Research intern at Facebook AI Research
+- Feb - Jul 2016, Research intern at Microsoft Research Asia
+- Jun - Dec 2014, Research intern at Microsoft Research Asia
