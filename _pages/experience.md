@@ -3,7 +3,6 @@ layout: page
 permalink: /experience/
 title: experience
 nav: false
-nav_order: 6
 ---
 
 - Jun - Sep 2020, Visiting student at Princeton NLP Group
