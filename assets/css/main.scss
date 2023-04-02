@@ -13,9 +13,3 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
-
-.grid-container {
-  display: grid;
-  grid-template-columns: 2.5fr 1fr;
-  grid-gap: 20px;
-}
