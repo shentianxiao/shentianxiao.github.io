@@ -5,6 +5,5 @@ title: teaching
 nav: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Fall 2022, Organizer for [Diffusion Models Reading Group](https://docs.google.com/document/d/1bo0E8t19AKNK6s2l9L98IHpraGWvNDtRhBgG3pjTsOo/edit?usp=sharing) at UW
+- Spring 2020, Teaching assistant for [6.883 Modeling with Machine Learning](https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp20/6.883#info) at MIT
