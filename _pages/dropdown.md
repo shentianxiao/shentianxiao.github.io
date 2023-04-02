@@ -2,12 +2,18 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 6
+nav_order: 9
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: talks
+      permalink: /talks/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: experience
+      permalink: /experience/
+    - title: divider
+    - title: teaching
+      permalink: /teaching/
+    - title: divider
+    - title: misc
+      permalink: /misc/
 ---
