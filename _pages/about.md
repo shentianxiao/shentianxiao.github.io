@@ -24,6 +24,6 @@ Previously, I received my PhD from MIT, advised by [Regina Barzilay](http://peop
 Before that, I did my undergrad at Tsinghua University, where I was a member of the [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
 
 I have broad interests in natural language processing, machine learning, and deep learning, with a focus on text generation.
-My research goal is to advance text generation models and algorithms that can be employed in real-world contexts to help people access information, enhance writing, and enrich their learning experiences.
+My research goal is to develop advanced text generation models and algorithms that can be used in real-world contexts to assist people with writing tasks and language learning.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
