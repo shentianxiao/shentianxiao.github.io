@@ -5,6 +5,8 @@ title: misc
 nav: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I am widely interested in philosophy. Here are my writing samples:
+- [Seeing Two Sides of a State from Plato and Hobbes](/assets/pdf/plato_hobbes.pdf) (2020)
+- [From Machines to the First Person](/assets/pdf/first_person.pdf) (2018)
+- [Science: the Enterprise of Pattern Recognition](/assets/pdf/science.pdf) (2016)
+- [Variable Assignent in Modality](/assets/pdf/modality.pdf) (2015)
