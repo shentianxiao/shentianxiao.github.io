@@ -23,7 +23,7 @@ I am a postdoctoral scholar at the University of Washington, working with [Yejin
 Previously, I received my PhD from MIT, advised by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Tommi Jaakkola](http://people.csail.mit.edu/tommi/).
 Before that, I did my undergrad at Tsinghua University, where I was a member of the [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
 
-I have broad interests in natural language processing, machine learning, and deep learning, with a focus on text generation.
-I aim to develop advanced generative models and algorithms for efficient, accurate, diverse, flexible, and controllable language (and in a wider context, discrete sequence) generation.
+I have broad interests in natural language processing, machine learning, and deep learning.
+More specifically, I study the nature of language and design generative models and algorithms for efficient, accurate, diverse, flexible, and controllable language (and in a wider context, discrete sequence) generation.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
