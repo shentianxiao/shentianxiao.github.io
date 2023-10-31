@@ -7,6 +7,10 @@ nav_order: 5
 ---
 
 ---
+**FiLM: Fill-in Language Models for Any-Order Generation**
+- Nov 2023, Guest lecture at UIUC CS 598 Efficiency in NLP
+
+---
 **Text Style Transfer with Confounders**
 - Oct 2021, NetMIT
 - Sep 2021, IBM
