@@ -24,6 +24,6 @@ Previously, I received my PhD from MIT, advised by [Regina Barzilay](http://peop
 Before that, I did my undergrad at Tsinghua University, where I was a member of the [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
 
 I have broad interests in natural language processing, machine learning, and deep learning.
-More specifically, I study the nature of languages and develop models and algorithms to facilitate efficient, accurate, diverse, flexible, and controllable generation of discrete sequences.
+More specifically, I study language models and develop algorithms to facilitate efficient, accurate, diverse, flexible, and controllable text generation.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
