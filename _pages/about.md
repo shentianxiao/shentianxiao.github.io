@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
     Paul G. Allen School of Computer Science & Engineering <br />
