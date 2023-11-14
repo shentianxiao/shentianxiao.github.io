@@ -84,9 +84,9 @@
                   </div>
                 </li>
               {%- else %}
-                {%- if p.title == "CV" -%}
+                {%- if p.layout == 'pdf' -%}
                   <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                    <a class="nav-link" href="{{ '/assets/pdf/' | append: p.cv_pdf | relative_url }}">{{ p.title }}</a>
+                    <a class="nav-link" href="{{ '/assets/pdf/' | append: p.pdf | relative_url }}">{{ p.title }}</a>
                   </li>
                 {%- else %}
                   <li class="nav-item {% if page.title == p.title %}active{% endif %}">
