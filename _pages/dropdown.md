@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: experience
+    - title: Experience
       permalink: /experience/
     - title: divider
-    - title: teaching
+    - title: Teaching
       permalink: /teaching/
     - title: divider
-    - title: misc
+    - title: Misc
       permalink: /misc/
 ---
