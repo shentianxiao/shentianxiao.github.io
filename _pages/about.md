@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral scholar at the University of Washington, working with [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and [Zaid Harchaoui](http://faculty.washington.edu/zaid/index.html).
+I am an IFDS postdoc scholar at the University of Washington, working with [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and [Zaid Harchaoui](http://faculty.washington.edu/zaid/index.html).
 Previously, I received my PhD from MIT, advised by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Tommi Jaakkola](http://people.csail.mit.edu/tommi/).
 Before that, I did my undergrad at Tsinghua University, where I was a member of the [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
 
