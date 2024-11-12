@@ -3,10 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-    Paul G. Allen School of Computer Science & Engineering <br />
-    University of Washington <br />
-    185 E Stevens Way NE, Seattle, WA 98195 <br />
-    Office: CSE 328
+    Google Gradient Canopy <br />
+    2000 N Shoreline Blvd, Mountain View, CA 94043 <br />
 
 profile:
   align: right
