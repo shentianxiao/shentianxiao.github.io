@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I am a research scientist at [Google DeepMind](https://deepmind.google/).
 Previously, I was a member of technical staff at [Character.AI](https://character.ai/).
 Before that, I was a postdoc scholar at the University of Washington.
-I received my PhD from MIT and my bachelor's degree from the [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University.
+I received my PhD from MIT and my bachelor's degree from the Yao Class, Tsinghua University.
 
 I have broad interests in artificial intelligence, natural language processing, machine learning, and deep learning.
 My goal is to develop a scalable reinforcement learning framework that enables large language models to evolve autonomously, ultimately advancing toward artificial superintelligence.
