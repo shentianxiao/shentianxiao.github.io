@@ -23,6 +23,6 @@ Before that, I was a postdoc scholar at the University of Washington.
 I received my PhD from MIT and my undergraduate degree from the Yao Class, Tsinghua University.
 
 My research interests are in artificial intelligence and machine learning.
-My goal is to develop a general reinforcement learning framework that enables AI agents to evolve autonomously, ultimately advancing toward artificial superintelligence.
+In particular, my research focuses on developing general reinforcement learning frameworks that enable AI agents to autonomously discover knowledge and achieve superhuman performance in complex tasks.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
