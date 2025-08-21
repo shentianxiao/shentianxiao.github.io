@@ -2,7 +2,8 @@
 layout: page
 permalink: /misc/
 title: Misc
-nav: false
+nav: true
+nav_order: 4
 ---
 
 I am widely interested in philosophy. Here are my writing samples:
