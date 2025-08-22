@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 I am widely interested in philosophy. Here are my writing samples:
+- [Reflections with AI \[in Chinese\]](/assets/pdf/reflections.pdf) (2025)
 - [Seeing Two Sides of a State from Plato and Hobbes](/assets/pdf/plato_hobbes.pdf) (2020)
 - [From Machines to the First Person](/assets/pdf/first_person.pdf) (2018)
 - [Science: the Enterprise of Pattern Recognition](/assets/pdf/science.pdf) (2016)
