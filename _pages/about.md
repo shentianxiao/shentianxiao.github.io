@@ -23,6 +23,6 @@ Before that, I was a postdoc scholar at the University of Washington.
 I received my PhD from MIT and my undergraduate degree from the Yao Class, Tsinghua University.
 
 My research interests are in artificial intelligence and machine learning.
-In particular, my research focuses on scaling up reinforcement learning to train Gemini to effectively use more tokens during inference, thereby enabling a *thinking* process to achieve superhuman performance on complex tasks.
+In particular, my research focuses on scaling up reinforcement learning to train Gemini to develop a *thinking* process that effectively uses more tokens to achieve superhuman performance on complex tasks.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
